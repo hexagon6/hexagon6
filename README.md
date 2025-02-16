@@ -6,7 +6,7 @@ I am hexagon6 on [github.com](https://github.com/hexagon6/) & [gitlab.com](https
   - If you like svelte & solidproject have a look at my 2 libraries to make using solid easier:
     - [@hexagon6/svelte-solid-store](https://github.com/hexagon6/svelte-solid-store) svelte stores for session & webid handling
     - [@hexagon6/svelte-solid-webid-check](https://github.com/hexagon6/svelte-solid-webid-check) a svelte component for setting webid urls
-- 🌱 I’m currently learning to be a better programmer using rust, javascript & python
+- 🌱 I’m currently learning to become a better programmer using rust, javascript & python
 - 👯 I’m looking to collaborate on [solid](https://solidproject.org) projects and expand my foaf network
 - 💬 Ask me about my webid
 - 📫 How to reach me: mailto:webdev+github@fet.li
